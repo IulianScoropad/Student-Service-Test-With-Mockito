@@ -1,0 +1,20 @@
+Sa se scrie 6 teste care testeaza cazuri de test diferite.
+In aceste teste sa se foloseasca tehnica de mocking pentru interfata StudentProvider.
+Fiecare caz de test diferit va fi punctat cu 1p.
+In cele 6 teste mentionate mai sus, sa se foloseasca toate cele 3 tehnici de mocking pentru a testa functionaltiatea:
+    - Mock cu clasa anonima
+    - Mock cu o clasa separata
+    - Mock folosind Mockito
+Fiecare tehnica de mocking utilizata sa puncteaza cu 1p.
+Daca codul sau codul de test nu compileaza, nota este 1.
+
+
+Write 6 tests that test different test cases.
+In these tests, use the mocking technique for the StudentProvider interface.
+Each different test case will have 1p.
+In the 6 tests mentioned above, use all 3 mocking techniques to test the functionality:
+    - Mock with anonymous class
+    - Mock with a separate class
+    - Mock using Mockito
+Each mocking technique used has 1p.
+If the code or test code does not compile, the grade is 1.
